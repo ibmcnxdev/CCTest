@@ -1,0 +1,23 @@
+{
+  "name": "Survey Customization",
+  "title": "Print Survey to PDF",
+  "description": "Print Survey to PDF",
+  "services": [
+    "Customizer"
+  ],
+  "extensions": [
+    {
+      "payload": {
+        "include-files": [
+          "SurveyToPDF/SurveyToPDF.js"
+        ],
+		"include-repo":{
+	       "name": "CCTest"
+	     }
+	           },
+      "name": "SurveyToPDF",
+      "type": "com.ibm.customizer.ui",
+      "path": "communities"
+    }
+  ]
+}
