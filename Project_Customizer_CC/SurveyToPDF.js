@@ -1,5 +1,5 @@
 // ==UserScript==
-// @copyright    Copyright IBM Corp. 2016
+// @copyright    Copyright IBM Corp. 2018
 // @name         Surveys
 // @version      1
 // @description  *** PROTOTYPE CODE *** adds print to PDF function to surveys
