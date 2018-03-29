@@ -1,11 +1,11 @@
 // ==UserScript==
-// @copyright    Copyright IBM Corp. 2016
+// @copyright    Copyright IBM Corp. 2018
 // @name         Surveys
 // @version      1
 // @description  *** PROTOTYPE CODE *** adds print to PDF function to surveys
 // @namespace  http://ibm.com
-// @include      https://apps.na.collabserv.com
-// @match        https://apps.na.collabserv.com/surveys/*
+// @include      https://apps.ce.collabserv.com
+// @match        https://apps.ce.collabserv.com/surveys/*
 // @run-at       document-end
 // ==/UserScript==
 
